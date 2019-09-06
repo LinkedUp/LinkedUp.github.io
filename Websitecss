@@ -1,0 +1,40 @@
+section {
+    border: 5px solid red;
+    min-height: 1000px;
+    overflow: scroll;
+}
+
+.section-contactpage {
+    
+}
+
+.section-profilepage {
+    
+    
+}
+
+.section-testpage {
+    
+}
+
+.section-appintegration{
+    
+}
+
+.div-profile {
+    border: 10px solid black;
+    margin: 5px;
+    float:left;
+    padding: 5px;
+    min-height: 995px;
+    max-height: 1000px;
+}
+
+.div-profile h1 {
+    color: blue;
+}
+
+h1 {
+    color:red;
+    
+}
