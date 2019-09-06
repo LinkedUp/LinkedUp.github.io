@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <title>LinkedUp</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<main>
+<body>
+    <header></header>
+        
+        
+    <!-- Contact Page -->
+    <h1>Contact Page</h1>
+    <section class="section-contactpage">
+        <div>   
+            <h1>This is where the contact page will be</h1>     
+        </div>
+        </section>
+  
+     <!-- Profile Page -->
+    <h1>Profile Page</h1>
+    <section class="section-profilepage">
+     <div class ="div-profile">   
+            <h1>This is where the Profile page will be</h1>
+        </div>
+    </section>
+    
+     <!-- Test Page -->
+    <h1>Test Page</h1>
+    <section class="section-testpage">
+        <div>   
+            <h1>This is where the Test page will be</h1>     
+        </div>
+     </section>
+    
+        <!-- App Page -->
+    <h1>App Page</h1>
+    <section class="section-appintegration">
+        <div>   
+            <h1>This is where the app page will be</h1>     
+        </div>
+        </section>
+    
+</body>
+</main>
+</html>
