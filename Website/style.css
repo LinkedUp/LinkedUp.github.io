@@ -55,6 +55,33 @@ body {
     
     
 }
+.imagePanel{
+    border: 2px solid rgb(102, 88, 88);
+    /* width: 40%; */
+    background-color: rgb(116, 188, 216);
+}
+.testPanel{
+    border: 2px solid rgb(102, 88, 88);
+    /* width: 40%; */
+    background-color: rgb(116, 188, 216);
+}
+.socialPanel{
+    border: 2px solid rgb(102, 88, 88);
+    /* width: 40%; */
+    background-color: rgb(116, 188, 216);
+}
+.contactPanel{
+    border: 2px solid rgb(102, 88, 88);
+    /* width: 40%; */
+    background-color: rgb(116, 188, 216);
+}
+.resumePanel{
+    border: 2px solid rgb(102, 88, 88);
+    /* width: 40%; */
+    background-color: rgb(116, 188, 216);
+}
+
+
 
 .section-testpage {
     
