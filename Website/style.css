@@ -57,13 +57,25 @@ body {
 }
 .imagePanel{
     border: 2px solid rgb(102, 88, 88);
-    /* width: 40%; */
+    width: 20%;
+    height: 45%;
     background-color: rgb(116, 188, 216);
+    margin: left;
 }
 .testPanel{
     border: 2px solid rgb(102, 88, 88);
-    /* width: 40%; */
+    width: 40%;
+    height: 45%;
     background-color: rgb(116, 188, 216);
+    margin: right;
+}
+.headingFont{
+    font-size: 30px;
+    font-family: arial black;
+}
+.writingFont{
+    font-size: 20px;
+    font-family: arial rgb(24, 15, 15);
 }
 .socialPanel{
     border: 2px solid rgb(102, 88, 88);
@@ -77,7 +89,9 @@ body {
 }
 .resumePanel{
     border: 2px solid rgb(102, 88, 88);
-    /* width: 40%; */
+    
+    width: 40%;
+    height: 45%;
     background-color: rgb(116, 188, 216);
 }
 
