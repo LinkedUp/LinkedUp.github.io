@@ -75,6 +75,7 @@ body {
     text-align: center;
      padding: 7px 50px;
     text-decoration: none;
+        z-index: 3;
 }
 
 /* Change background on mouse-over */
@@ -87,6 +88,48 @@ body {
 .main {
   margin-top: 40px; /* Add a top margin to avoid content overlay */
 
+}
+
+
+#main-test-div {
+    color: white;
+    margin:auto;
+    padding: 5%;
+    max-width:80%;
+    min-height: 850px;
+    border: 2px solid black;
+    background-color: #36454f;
+    
+}
+
+.test-page-div {
+    background-color: #36454f;
+    float:left; 
+    
+}
+
+.test-page-div p{
+    background-color: #36454f;
+    float:left; 
+    font-size: 1.9vw;
+    margin-top: 2%;
+    
+}
+
+#test-div h2{ 
+color:white;
+    display:inline;
+    margin-right: 9%;
+    margin-left: 7.2%;
+
+}
+
+
+input[type='radio'] { 
+    transform: scale(2); 
+    margin-top: 12%;
+    margin-left: 8%;
+    margin-right: 8%;  
 }
 
 
